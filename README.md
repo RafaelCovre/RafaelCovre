@@ -25,9 +25,9 @@ Rafael Silva Covre Bragante
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo. Gosto de resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend
+Atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo. Gostaria de atuar como estagiário em desenvolvimento back-end, buscando ampliar meus conhecimentos na área, além de adquirir experiência prática e evoluir profissionalmente na área de tecnologia. 
  
-* **Habilidades Técnicas:** Python, HTML, CSS3, Javascript, C
+* **Habilidades Técnicas:** Python, HTML, CSS3, Javascript, C, Inglês
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
  
 ---
