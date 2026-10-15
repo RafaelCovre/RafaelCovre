@@ -19,8 +19,8 @@ Rafael Silva Covre Bragante
  
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-covre-901611347/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:covrerafael1@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/RafaelCovre/RafaelCovre/blob/main/Curr%C3%ADculo%20Rafael%20Covre.pdf)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:covrerafael1@gmail.com) :  covrerafael1@gmail.com
  
 ---
  
